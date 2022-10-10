@@ -1,2 +1,2 @@
-# Discord-Token-Kontrol
-Çalanın anasını g*tten s/key*m
+# Discord Token Kontrol (Nitro VAR/YOK)
+##### start.bat'ı çalıştırın.
